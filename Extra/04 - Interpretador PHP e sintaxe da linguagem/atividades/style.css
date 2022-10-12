@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+    background-color:aliceblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 5px;
+}
+
+table {
+    background-color: cadetblue;
+    color: black;
+    border-radius: 5px;
+    width: 100%;
+}
+
+th {
+    text-align: center;
+}
