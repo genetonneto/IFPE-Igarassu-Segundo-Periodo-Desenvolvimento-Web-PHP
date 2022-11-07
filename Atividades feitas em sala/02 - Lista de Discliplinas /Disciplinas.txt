@@ -1,8 +1,0 @@
-Lista de Disciplinas do Segundo Periodo: IPI 
-Etica Profissional
-Segurança da Internet
-Banco de Dados
-Desenvolvimento Web
-Projeto e Pratica
-Sistemas Operacionais
-Programaçao Orientada a Objetos

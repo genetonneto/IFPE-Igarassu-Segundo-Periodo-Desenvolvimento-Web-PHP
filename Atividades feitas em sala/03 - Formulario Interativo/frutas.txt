@@ -1,7 +1,0 @@
-Lista de frutas:
-Maça
-Banana
-Abacate
-Uva
-Melancia
-Pêra
