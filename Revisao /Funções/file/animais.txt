@@ -1,0 +1,5 @@
+macaco
+leao
+cachorro
+gato
+tubarão
