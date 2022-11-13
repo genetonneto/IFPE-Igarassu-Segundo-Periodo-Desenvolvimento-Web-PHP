@@ -1,0 +1,3 @@
+Peito,Ombro,Tricps,Panturrilha
+Perna
+Costas,Trapezio,Biceps, Panturrilha 
