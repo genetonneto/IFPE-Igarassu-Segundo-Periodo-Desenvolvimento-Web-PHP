@@ -4,20 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Dia e Treino</title>
 </head>
-<body>
-    <h1>Adicionar Pessoa</h1>
-    <form action="create.php">
-        Nome: <input type="text" minlength="3" name="nome">
-        Idade: <input type="number" min="0" max="150" required name="age">
-        Estado: <input type="text" minlength="0" maxlength="2" name="estado">
-        <!-- <select name="cidade" id="">
-            <option value="abreu">Abreu e Lima</option> 
-        </select> -->
-        <input type="submit" value="Adicionar">
+<style>
+    * {
+        font-family: sans-serif;
+        text-align: center;
+    }
 
+    input {
+        background-color: #fff;
+    }
+</style>
+<body>
+    <h2>Adicionar Dia e Treino</h2>
+    <form action="create.php">
+        Dia: <input type="text" name="dia">
+        Treino01: <input type="text" name="treino01">
+        Treino02: <input type="text" name="treino02">
+        Treino03: <input type="text" name="treino03">
+        <input type="submit" value="Adicionar">
     </form>
 </body>
 </html>
